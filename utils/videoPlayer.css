@@ -1,0 +1,26 @@
+* {
+  background: rgb(17, 24, 39);
+  color: whitesmoke;
+  box-sizing: border-box;
+
+}
+
+button {
+  transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+}
+
+button:hover {
+  background-color: whitesmoke;
+  color: rgb(17, 24, 39);
+}
+
+.LIGHT{
+  background-color: whitesmoke;
+  color: rgb(17, 24, 39);
+  height: 100vh;
+}
+.DARK{
+  background-color: rgb(17, 24, 39);
+  color: whitesmoke;
+  height: 100vh;
+}

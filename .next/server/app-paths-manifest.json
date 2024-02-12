@@ -1,0 +1,16 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/page": "app/page.js",
+  "/Auth/page": "app/Auth/page.js",
+  "/context/page": "app/context/page.js",
+  "/TixTacToe/page": "app/TixTacToe/page.js",
+  "/context-pages/page": "app/context-pages/page.js",
+  "/tabsComponent/page": "app/tabsComponent/page.js",
+  "/toggleButton/page": "app/toggleButton/page.js",
+  "/timer/page": "app/timer/page.js",
+  "/drawingCanvas/page": "app/drawingCanvas/page.js",
+  "/videoPlayer/page": "app/videoPlayer/page.js",
+  "/infiniteScroll/page": "app/infiniteScroll/page.js",
+  "/Auth/Welcome/page": "app/Auth/Welcome/page.js",
+  "/context-pages/home-page/page": "app/context-pages/home-page/page.js"
+}

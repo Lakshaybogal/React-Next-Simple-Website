@@ -44,7 +44,7 @@ const Home: React.FC = () => {
                 </button>
 
                 <h3 className="mt-8 mb-4 text-xl font-semibold ">UseReducer</h3>
-                <button className='mbutton w-72 flex justify-center items-center' onClick={() => route.push('/TicTacToe')}>
+                <button className='mbutton w-72 flex justify-center items-center' onClick={() => route.push('/TixTacToe')}>
                     TicTacToe <FaArrowRight className="ml-2 animate-bounce" />
                 </button>
             </div>
